@@ -16,3 +16,8 @@ h6: Header tag, like h1 but the text is smaller.
 	
 	example: </h6>Things I like</h6>
 	
+img: Image tag, lets us put a picture in our website
+
+     attributes: src
+     
+     example: <img src="snorlax.jpg">
