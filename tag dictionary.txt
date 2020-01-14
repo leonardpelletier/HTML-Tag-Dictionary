@@ -1,3 +1,7 @@
+!doctype: selects which version of html you want to use.
+	  attributes: html (most recent version)
+	  example: <!DOCTYPE html>
+
 a:  
 
 h1: Header tag, makes the text large and puts
